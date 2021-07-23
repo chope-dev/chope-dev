@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate frontend developer from Argentina, and I am currently studying Systems Engineering at UTN. I'm interested in things related to technology and web application development, I hope to gain experience in this field to develop professionally. Also, I like to constantly learn and train myself on new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
