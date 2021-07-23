@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h4 align="center">A passionate frontend developer from Argentina, and I am currently studying Systems Engineering at UTN. I'm interested in things related to technology and web application development, I hope to gain experience in this field to develop professionally. Also, I like to constantly learn and train myself on new technologies.</h4>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/saantigiorgetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saantigiorgetti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santiago-giorgetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-giorgetti" height="30" width="40" /></a>
