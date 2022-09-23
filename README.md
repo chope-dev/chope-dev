@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/santiago-giorgetti-4a40a01b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-giorgetti" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ssanty.giorgetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santi giorgetti" height="30" width="40" /></a>
 <a href="https://instagram.com/santi.giorgetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santi.giorgetti" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/santiago giorgetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santiago giorgetti" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCkfX6IIJkHZ1TPvImskpORw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santiago giorgetti" height="30" width="40" /></a>
 <a href="https://discord.gg/383680360405532683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="383680360405532683" height="30" width="40" /></a>
 </p>
 
