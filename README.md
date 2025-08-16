@@ -15,9 +15,8 @@
 
 
 <h3 align="left">Languages and Tools – Backend:</h3>
-<p align="left"> <a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="expressjs"width="40" height="40"/></a> <a href="https://nodejs.org/es/" target="_blank"> <img align="center" src="https://nodejs.org/static/logos/nodejsStackedLight.svg" alt="nodejs" width="70" height="70"/></a>
-<a href="https://www.ruby-lang.org/es/documentation/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/640px-Ruby_logo.svg.png" alt="rubyonrails"width="30" height="30"/></a> 
-</p>
+<p align="left"> <a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="expressjs"width="40" height="40"/></a> <a href="https://nodejs.org/es/" target="_blank"> <img align="center" src="https://nodejs.org/static/logos/nodejsStackedLight.svg" alt="nodejs" width="70" height="70"/> </a>
+<a href="https://www.ruby-lang.org/es/documentation/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/640px-Ruby_logo.svg.png" alt="rubyonrails"width="30" height="30"/></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chope-dev&show_icons=true&locale=en" alt="chope-dev" /></p>
 
