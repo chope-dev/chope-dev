@@ -15,7 +15,7 @@
 
 
 <h3 align="left">Languages and Tools – Backend:</h3>
-<p align="left"> <a href="https://nodejs.org/es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com/" target="_blank"> <img src="https://images.seeklogo.com/logo-png/33/2/express-js-logo-png_seeklogo-339850.png" alt="nodejs" width="40" height="40"/></a>
+<p align="left"> <a href="https://nodejs.org/es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/250px-Expressjs.png" alt="nodejs" width="40" height="40"/></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chope-dev&show_icons=true&locale=en" alt="chope-dev" /></p>
 
