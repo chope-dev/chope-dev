@@ -54,6 +54,23 @@
 
 ---
 
+## 🗄️ Databases & DevOps
+<p align="left">
+  <!-- MongoDB -->
+  <img style="margin: 8px;" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40">
+  
+  <!-- MySQL -->
+  <img style="margin: 8px;" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40">
+
+  <!-- Docker -->
+  <img style="margin: 8px;" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="55">
+
+  <!-- Jenkins -->
+  <img style="margin: 8px;" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45">
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chope-dev&show_icons=true&theme=default" height="160"/>
