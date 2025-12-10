@@ -1,23 +1,64 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">A passionate Software Developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🔗 Connect with me
 <p align="left">
-<a href="https://twitter.com/chopee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saantigiorgetti" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/santiago-giorgetti-4a40a01b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-giorgetti" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ssanty.giorgetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santi giorgetti" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCkfX6IIJkHZ1TPvImskpORw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santiago giorgetti" height="30" width="40" /></a>
-<a href="https://discord.gg/383680360405532683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="383680360405532683" height="30" width="40" /></a>
+  <a href="https://twitter.com/chopee_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/santiago-giorgetti-4a40a01b9/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>
+  <a href="https://www.facebook.com/ssanty.giorgetti/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCkfX6IIJkHZ1TPvImskpORw" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/>
+  </a>
+  <a href="https://discord.gg/383680360405532683" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools – Frontend:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://angular.dev/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwJLc9nk9vee_SQDOBPO777ITsWa-hRCkmg&s" alt="angular" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank">  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="figma" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/><a href="https://docs.astro.build/es/getting-started/" target="_blank"> <img src="https://astro.build/assets/press/astro-icon-light-gradient.png" alt="astro" width="40" height="40"/></a></p>
+---
 
+## 🎨 Languages & Tools – Frontend
+<p align="left">
+  <img style="margin: 8px;" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40">
+  <img style="margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40">
+  <img style="margin: 8px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwJLc9nk9vee_SQDOBPO777ITsWa-hRCkmg&s" width="40">
+  <img style="margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40">
+  <img style="margin: 8px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40">
+  <img style="margin: 8px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40">
+  <img style="margin: 8px;" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="40">
+  <img style="margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
+  <img style="margin: 8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="40">
+  <img style="margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40">
+  <img style="margin: 8px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40">
+  <img style="margin: 8px;" src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="40">
+  <img style="margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40">
+  <img style="margin: 8px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40">
+  <img style="margin: 8px;" src="https://astro.build/assets/press/astro-icon-light-gradient.png" width="40">
+</p>
 
-<h3 align="left">Languages and Tools – Backend:</h3>
-<p align="left"> <a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="expressjs"width="40" height="40"/> </a> <a href="https://nodejs.org/es/" target="_blank"> <img align="center" src="https://nodejs.org/static/logos/nodejsStackedLight.svg" alt="nodejs" width="70" height="70"/> </a>
-<a href="https://www.ruby-lang.org/es/documentation/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/640px-Ruby_logo.svg.png" alt="rubyonrails"width="30" height="30"/></a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chope-dev&show_icons=true&locale=en" alt="chope-dev" /></p>
+## ⚙️ Languages & Tools – Backend
+<p align="left">
+  <img style="margin: 8px;" src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" width="50">
+  <img style="margin: 8px;" src="https://nodejs.org/static/logos/nodejsStackedLight.svg" width="70">
+  <img style="margin: 8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/640px-Ruby_logo.svg.png" width="40">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chope-dev&" alt="chope-dev" /></p>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chope-dev&show_icons=true&theme=default" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chope-dev" height="160"/>
+</p>
